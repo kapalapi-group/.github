@@ -1,14 +1,10 @@
 # 🚢 KAPAL API GLOBAL
 
-```text
-              |    |    |
-             )_)  )_)  )_)
-            )___))___))___)\
-           )____)____)_____)\\
-         _____|____|____|____\\\__
----------\       K  A  G         /---------
-  ^^^^^ ^^^^^^^^^^^^^^^^^^^^^^^^^^^ ^^^^^
-```
+<div align="center">
+  <img src="ship.svg" width="800" alt="Kapal Api Global Ship Animation">
+  <br>
+  <h1>🚢 Digital Innovation & Enterprise Engineering</h1>
+</div>
 
 Welcome to the official **GitHub Organization of Kapal Api Global**. 
 
