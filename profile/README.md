@@ -1,7 +1,7 @@
 # 🚢 KAPAL API GLOBAL
 
 <div align="center">
-  <img src="ship.svg" width="1000" alt="Kapal Api Global Ship Animation">
+  <img src="moving-ship.svg" width="800" alt="Kapal Api Global Ship Animation">
   <br>
   <h1>🚢 Digital Innovation & Enterprise Engineering</h1>
 </div>
